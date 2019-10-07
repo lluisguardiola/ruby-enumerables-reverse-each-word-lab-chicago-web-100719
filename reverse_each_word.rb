@@ -1,3 +1,3 @@
 def reverse_each_word (array)
-  array.each
+  %w(array.each_with_index) = 
 end
