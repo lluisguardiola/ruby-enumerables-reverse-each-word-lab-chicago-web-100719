@@ -1,5 +1,5 @@
 def reverse_each_word (string)
-  %w(string).reverse_each { |item, index|
+  %w(string).each { |item, index|
     
   }
 end
